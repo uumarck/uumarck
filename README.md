@@ -5,7 +5,7 @@
   <div align="center">
   <a href="https://github.com/uumarck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uumarck&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uumarck&layout=compact&langs_count=7&theme=outrun"/>
+  
 </div>
   
   <h4 align="left">Skills</h4>
