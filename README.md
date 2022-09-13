@@ -13,7 +13,7 @@
 
 - :computer: I love `Sailboats` and `Technologies`.
 - :student: I’m currently learning `Computer Science`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12sYe9SuDaCpDfuahr7ADixSMtZmDwB72/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 
   ##
